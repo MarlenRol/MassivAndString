@@ -1,0 +1,14 @@
+C:\Users\XDot PC\Desktop\Task_Mas\Task_4\bin\Debug\net7.0\Task_4.exe
+C:\Users\XDot PC\Desktop\Task_Mas\Task_4\bin\Debug\net7.0\Task_4.deps.json
+C:\Users\XDot PC\Desktop\Task_Mas\Task_4\bin\Debug\net7.0\Task_4.runtimeconfig.json
+C:\Users\XDot PC\Desktop\Task_Mas\Task_4\bin\Debug\net7.0\Task_4.dll
+C:\Users\XDot PC\Desktop\Task_Mas\Task_4\bin\Debug\net7.0\Task_4.pdb
+C:\Users\XDot PC\Desktop\Task_Mas\Task_4\obj\Debug\net7.0\Task_4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\XDot PC\Desktop\Task_Mas\Task_4\obj\Debug\net7.0\Task_4.AssemblyInfoInputs.cache
+C:\Users\XDot PC\Desktop\Task_Mas\Task_4\obj\Debug\net7.0\Task_4.AssemblyInfo.cs
+C:\Users\XDot PC\Desktop\Task_Mas\Task_4\obj\Debug\net7.0\Task_4.csproj.CoreCompileInputs.cache
+C:\Users\XDot PC\Desktop\Task_Mas\Task_4\obj\Debug\net7.0\Task_4.dll
+C:\Users\XDot PC\Desktop\Task_Mas\Task_4\obj\Debug\net7.0\refint\Task_4.dll
+C:\Users\XDot PC\Desktop\Task_Mas\Task_4\obj\Debug\net7.0\Task_4.pdb
+C:\Users\XDot PC\Desktop\Task_Mas\Task_4\obj\Debug\net7.0\Task_4.genruntimeconfig.cache
+C:\Users\XDot PC\Desktop\Task_Mas\Task_4\obj\Debug\net7.0\ref\Task_4.dll
